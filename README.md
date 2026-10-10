@@ -1,51 +1,12 @@
-# 🎬 BookMyScreen Movie Booking System Tutorial (MERN Stack)
+Concurrent Booking Engine 
 
-Welcome to the **BookMyScreen** tutorial series – your ultimate guide to building a **full-stack movie ticket booking system** using **React**, **Node.js**, **MongoDB**, and **Express.js**.
 
-This system includes advanced features like **concurrent seat locking**, **real-time UI updates**, and **theatre-wise show grouping** – inspired by platforms like **BookMyShow**.
+This system includes advanced features like **concurrent seat locking**, **real-time UI updates**, and **theatre-wise show grouping** – inspired by modern booking algorithms.
 
-> ✅ Perfect for beginners and intermediate developers looking to create a real-world, scalable, and beautifully designed full-stack project.
 
 ---
 
-## ⚠️ Important Note (Must Read Before Using Code)
 
-> 🚫 **Please do NOT blindly copy-paste the code from this project.**
-
-This is a **complex, real-world full-stack system** involving:
-- Concurrent seat booking logic  
-- Real-time updates  
-- Backend + frontend integration  
-- Structured architecture  
-
-👉 If you directly copy the code, you may face:
-- ❌ Errors during setup  
-- ❌ Confusion in understanding flow  
-- ❌ Issues in execution and debugging  
-
----
-
-### ✅ Recommended Approach
-
-✔ Follow the **YouTube tutorial step-by-step** on **Programming with Amrit**  
-✔ Understand each module (Auth, Show, Booking, Seat Locking, etc.)  
-✔ Then implement the code alongside the tutorial  
-
----
-
-### 💡 Why this matters?
-
-This project is designed to help you:
-- Think like a real developer 🧠  
-- Understand system design + architecture  
-- Learn how real booking systems work  
-
-👉 Following the tutorial will ensure **smooth execution + deep understanding**
-
----
-
-## 📺 Watch the Full Playlist:
-👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9OdiypqS7NlD84nIN-rAh9D-LtzNi10R)
 
 
 
@@ -79,17 +40,4 @@ This project is designed to help you:
 
 ---
 
-## 🙌 Stay Connected
 
-- 🔔 **Subscribe on YouTube:** Programming with Amrit
-- 💼 **LinkedIn:** [rajamrit15](https://www.linkedin.com/in/rajamrit15/)
-- 🧑‍💻 **GitHub:** [amritmaurya1504](https://github.com/amritmaurya1504)
-
----
-
-## 🏷️ Tags
-
-`#mernproject` `#moviebooking` `#bookmyshowclone` `#reactjs` `#nodejs`  
-`#mongodb` `#webdevelopment` `#seatbooking` `#techprojects` `#fullstackproject`
-
----
